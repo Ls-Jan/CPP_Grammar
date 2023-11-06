@@ -1,0 +1,3 @@
+﻿  T5.cpp
+C:\Users\Administrator\Desktop\Grammar\Test_5\T5.cpp(4,23): error C2371: “UINT”: 重定义；不同的基类型
+C:\Users\Administrator\Desktop\Grammar\Test_5\T5.cpp(3): message : 参见“UINT”的声明

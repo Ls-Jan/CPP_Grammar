@@ -1,0 +1,4 @@
+﻿  T9_Main.cpp
+C:\Users\Administrator\Desktop\Grammar_2\Test_9\T9_Main.cpp(24,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\Grammar_2\Test_9\T9_Main.cpp(33,1): error C2129: 静态函数“void Func(void)”已声明但未定义
+C:\Users\Administrator\Desktop\Grammar_2\Test_9\T9_Main.cpp(19): message : 参见“Func”的声明

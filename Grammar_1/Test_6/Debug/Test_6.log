@@ -1,0 +1,4 @@
+﻿  T6.cpp
+C:\Users\Administrator\Desktop\Grammar\Test_6\T6.cpp(11,5): error C2084: 函数“int Func(void)”已有主体
+C:\Users\Administrator\Desktop\Grammar\Test_6\T6.cpp(8): message : 参见“Func”的前一个定义
+C:\Users\Administrator\Desktop\Grammar\Test_6\T6.cpp(18,19): error C2065: “Func”: 未声明的标识符

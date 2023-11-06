@@ -1,0 +1,9 @@
+﻿  T1.cpp
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(3,5): error C2086: “int num”: 重定义
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(2): message : 参见“num”的声明
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(4,5): error C2086: “int num”: 重定义
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(2): message : 参见“num”的声明
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(5,5): error C2086: “int num”: 重定义
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(2): message : 参见“num”的声明
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(6,5): error C2086: “int num”: 重定义
+C:\Users\Administrator\Desktop\Grammar\Test_1\T1.cpp(2): message : 参见“num”的声明

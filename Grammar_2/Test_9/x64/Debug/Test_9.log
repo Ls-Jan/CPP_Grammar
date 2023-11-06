@@ -1,0 +1,4 @@
+﻿  T9_Main.cpp
+C:\Users\Administrator\Desktop\Grammar_2\Test_9\T9_Main.cpp(44,11): warning C4477: “printf_s”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\Administrator\Desktop\Grammar_2\Test_9\T9_Main.cpp(53,13): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  Test_9.vcxproj -> C:\Users\Administrator\Desktop\Grammar_2\x64\Debug\Test_9.exe

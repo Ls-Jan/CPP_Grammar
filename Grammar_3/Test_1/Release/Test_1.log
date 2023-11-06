@@ -1,0 +1,12 @@
+﻿E:\VS2019\IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(Test_1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Integer.cpp
+  Main.cpp
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(10,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Integer”
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(10,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“Integer”
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(10,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“Integer”
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(17,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Integer”
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(17,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“Integer”
+C:\Users\Administrator\Desktop\Grammar_3\Test_1\Main.cpp(23,11): warning C4477: “printf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Integer”
+  Utility.cpp
+Integer.obj : error LNK2001: 无法解析的外部符号 "private: static int Integer::__sum" (?__sum@Integer@@0HA)
+C:\Users\Administrator\Desktop\Grammar_3\Release\Example.exe : fatal error LNK1120: 1 个无法解析的外部命令
